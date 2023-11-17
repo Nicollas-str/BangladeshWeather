@@ -1,4 +1,4 @@
-Date,Temp9am,Temp3pm,MinTemp,MaxTemp,Rainfall,RainToday,Evaporation,Sunshine,WindGustDir,WindGustSpeed,WindDir9am,WindDir3pm,WindSpeed9am,WindSpeed3pm,Humidity9am,Humidity3pm,Pressure9am,Pressure3pm,Cloud9am,Cloud3pm
+Data,Temp9am,Temp3pm,TempMin,TempMax,Chuva,ChuvaHoje,Evaporação,LuzDoSol,DirRajVen,VelRajVen,VentDir9am,VentDir3pm,VelVent9am,VelVent3pm,Umidade9am,Umidade3pm,Pressão9am,Pressão3pm,Nuvem9am,Nuvem3pm
 01-02-13,20.7,20.9,19.5,22.4,15.6,Yes,6.2,0,W,41,S,SSW,17,20,92,84,1017.6,1017.4,8,8
 02-02-13,22.4,24.8,19.5,25.6,6,Yes,3.4,2.7,W,41,W,E,9,13,83,73,1017.9,1016.4,7,7
 03-02-13,23.5,23,21.6,24.5,6.6,Yes,2.4,0.1,W,41,ESE,ESE,17,2,88,86,1016.7,1015.6,7,8
