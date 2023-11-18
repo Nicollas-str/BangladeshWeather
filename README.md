@@ -65,7 +65,7 @@ A acurácia do modelo no conjunto de teste foi de 80%. Isso significa que o mode
 
 A visualização de dados foi criada usando a biblioteca Matplotlib. A visualização mostra a acurácia do modelo ao longo do tempo.
 
-A visualização mostra que a acurácia do modelo aumenta gradualmente ao longo do tempo. Isso sugere que o modelo está aprendendo e melhorando com o tempo.
+A visualização mostra que a acurácia do modelo se mantem ao longo do tempo. Isso sugere que o modelo não está aprendendo e melhorando com o tempo.
 
 **Conclusões**
 
@@ -73,4 +73,4 @@ O modelo de regressão logística foi capaz de prever a probabilidade de chuva c
 
 O modelo pode ser usado para prever a probabilidade de chuva para qualquer dia futuro. O modelo pode ser usado para fins de planejamento, como para planejar eventos ao ar livre ou para tomar decisões sobre a agricultura.
 
-A visualização de dados mostra que a acurácia do modelo aumenta gradualmente ao longo do tempo. Isso sugere que o modelo pode ser ainda mais preciso no futuro, à medida que continue a aprender e melhorar.
+A visualização de dados mostra que a acurácia do modelo se mantem ao longo do tempo. Isso sugere que o modelo pode ser melhorado ainda mais para que no futuro ele seja mais preciso, à medida que continue a aprender e melhorar.
