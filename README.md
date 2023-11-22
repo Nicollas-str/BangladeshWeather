@@ -59,7 +59,7 @@ O modelo foi treinado usando a técnica de ensino supervisionado. Os dados foram
 
 O desempenho do modelo foi avaliado usando a métrica acurácia. A acurácia é a proporção de observações que foram classificadas corretamente pelo modelo.
 
-A acurácia do modelo no conjunto de teste foi de 80%. Isso significa que o modelo acertou 80% das observações no conjunto de teste.
+A acurácia do modelo no conjunto de teste foi de aproximadamente 80%. Isso significa que o modelo acertou aproximadamente 80% das observações no conjunto de teste.
 
 **Visualização de dados**
 
@@ -69,7 +69,7 @@ A visualização mostra que a acurácia do modelo se mantem ao longo do tempo. I
 
 **Conclusões**
 
-O modelo de regressão logística foi capaz de prever a probabilidade de chuva com uma acurácia de 80%. Isso sugere que o modelo é um bom preditor de chuva.
+O modelo de regressão logística foi capaz de prever a probabilidade de chuva com uma acurácia de aproximadamente 80%. Isso sugere que o modelo é um bom preditor de chuva.
 
 O modelo pode ser usado para prever a probabilidade de chuva para qualquer dia futuro. O modelo pode ser usado para fins de planejamento, como para planejar eventos ao ar livre ou para tomar decisões sobre a agricultura.
 
